@@ -1,0 +1,95 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.thumbnailBtn{
+	-fx-background-position: left ;
+	-fx-background-color: transparent;
+	-fx-background-repeat:no-repeat;
+	-fx-background-image: url('../../../../../Sourcen/img/btn/buttonFrame.png');
+}
+
+.stylebtn{
+	-fx-background-color: transparent;
+	-fx-background-size: 100.0%;
+	-fx-background-repeat:no-repeat;
+}
+
+.playbtn{
+	-fx-background-image:url(../../../../../Sourcen/img/btn/playbtn.png);
+}
+
+.playbtn:hover{
+	-fx-background-image:url(../../../../../Sourcen/img/btn/playbtnhover.png);
+}
+
+.pausebtn{
+	-fx-background-image:url(../../../../../Sourcen/img/btn/pausebtn.png);
+}
+
+.pausebtn:hover{
+	-fx-background-image:url(../../../../../Sourcen/img/btn/pausebtnhover.png);
+}
+
+.settingsbtn{
+	-fx-background-image:url(../../../../../Sourcen/img/btn/settingsbtn.png);
+}
+.settingsbtn:hover{
+	-fx-background-image:url(../../../../../Sourcen/img/btn/settingsbtnhover.png);
+}
+
+.neuersongbtn{
+	-fx-background-image:url(../../../../../Sourcen/img/btn/neuersongbtn.png);
+}
+.neuersongbtn:hover{
+	-fx-background-image:url(../../../../../Sourcen/img/btn/neuersongbtnhover.png);
+}
+
+.savebtn{
+	-fx-background-image:url(../../../../../Sourcen/img/btn/savebtn.png);
+}
+
+.savebtn:hover{
+	-fx-background-image:url(../../../../../Sourcen/img/btn/savebtnhover.png);
+}
+
+.loadbtn{
+	-fx-background-image:url(../../../../../Sourcen/img/btn/loadbtn.png);
+}
+
+.loadbtn:hover{
+	-fx-background-image:url(../../../../../Sourcen/img/btn/loadbtnhover.png);
+}
+
+.trashbtn{
+	-fx-background-image:url(../../../../../Sourcen/img/btn/trashbtn.png);
+}
+
+.trashbtn_open{
+	-fx-background-image:url(../../../../../Sourcen/img/btn/trashbtn_hover.png);
+}
+
+.controlBox{
+	-fx-background-color: #12222f;
+}
+
+.blurUp{
+	-fx-effect: dropshadow(gaussian, rgba(0,0,0,0.5), 10, 0, 0, -5);
+}
+
+.blurDown{
+	-fx-effect: dropshadow(gaussian, rgba(0,0,0,0.5), 10, 0, 0, 5);
+}
+
+.blurAround{
+	-fx-effect: dropshadow(gaussian, rgba(0,0,0,0.5), 10, 0, 0, 5);
+}
+
+.backgroundPane{
+	-fx-background-color: #606060;
+}
+
+.clearbtn{
+	-fx-background-image:url(../../../../../Sourcen/img/btn/clearbtn.png);
+}
+
+.clearbtn:hover{
+	-fx-background-image:url(../../../../../Sourcen/img/btn/clearbtnhover.png);
+}

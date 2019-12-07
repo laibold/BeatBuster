@@ -1,0 +1,55 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.thumbnailBtn{
+	-fx-background-position: left ;
+	-fx-background-color: transparent;
+	-fx-background-repeat:no-repeat;
+	-fx-background-image: url('../../../../../Sourcen/img/btn/buttonFrame.png');
+}
+
+.stylebtn{
+	-fx-background-color: transparent;
+	-fx-background-size: 100.0%;
+	-fx-background-repeat:no-repeat;
+}
+
+.locationbtngarage{
+	-fx-background-image:url(../../../../../Sourcen/img/scenes/garage.png);
+}
+.backbtn{
+	-fx-background-image:url(../../../../../Sourcen/img/btn/backbtn.png);
+}
+.backbtn:hover{
+	-fx-background-image:url(../../../../../Sourcen/img/btn/backbtnhover.png);
+}
+
+.locationbtnstrand{
+	-fx-background-image:url(../../../../../Sourcen/img/scenes/strand.png);
+}
+
+.locationbtnstrandlocked{
+	-fx-background-image:url(../../../../../Sourcen/img/scenes/strandLocked.png);
+}
+
+.locationbtnstrandlocked:hover{
+	-fx-background-image:url(../../../../../Sourcen/img/scenes/strandLockedhover.png);
+}
+
+.locationbtngitarre{
+	-fx-background-image:url(../../../../../Sourcen/img/scenes/gitarre.png);
+}
+
+.chosenLocation{
+	-fx-effect: innershadow( gaussian , rgba(0,0,0,0.8) , 40,0,0,0 );
+}
+
+.controlBox{
+	-fx-background-color: #12222f;
+}
+
+.blurDown{
+	-fx-effect: dropshadow(gaussian, rgba(0,0,0,0.5), 10, 0, 0, 5);
+}
+
+.whiteBackground{
+	-fx-background-color: #ffffff;
+}

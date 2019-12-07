@@ -1,0 +1,11 @@
+#120:2
+0:../Sourcen/sounds/grunz.wav
+2:../Sourcen/sounds/glas.wav
+3:../Sourcen/sounds/giesskanne.wav
+5:../Sourcen/sounds/besen.wav
+6:../Sourcen/sounds/besen.wav
+8:../Sourcen/sounds/grunz.wav
+10:../Sourcen/sounds/glas.wav
+11:../Sourcen/sounds/giesskanne.wav
+13:../Sourcen/sounds/besen.wav
+14:../Sourcen/sounds/besen.wav

@@ -1,0 +1,12 @@
+#120:1
+0:../Sourcen/sounds/tuer.wav
+0:../Sourcen/sounds/ball_gross.wav
+1:../Sourcen/sounds/tuer.wav
+1:../Sourcen/sounds/ball_gross.wav
+2:../Sourcen/sounds/kanu.wav
+2:../Sourcen/sounds/ball_gross.wav
+3:../Sourcen/sounds/topf.wav
+4:../Sourcen/sounds/scheibe.wav
+5:../Sourcen/sounds/besen.wav
+6:../Sourcen/sounds/scheibe.wav
+7:../Sourcen/sounds/grunz.wav

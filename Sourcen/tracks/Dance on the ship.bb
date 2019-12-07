@@ -1,0 +1,15 @@
+#120:1
+0:../Sourcen/sounds/kanu.wav
+1:../Sourcen/sounds/kanu.wav
+1:../Sourcen/sounds/tuer.wav
+2:../Sourcen/sounds/kanu.wav
+2:../Sourcen/sounds/tuer.wav
+3:../Sourcen/sounds/kanu.wav
+3:../Sourcen/sounds/giesskanne.wav
+3:../Sourcen/sounds/giesskanne.wav
+4:../Sourcen/sounds/kanu.wav
+4:../Sourcen/sounds/tuer.wav
+5:../Sourcen/sounds/kanu.wav
+6:../Sourcen/sounds/kanu.wav
+6:../Sourcen/sounds/tuer.wav
+7:../Sourcen/sounds/kanu.wav
